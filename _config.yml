@@ -1,13 +1,11 @@
-title: Your awesome title
-author: GitHub User
+title: GitHub Pages with Jerkyll example
+author: osa0508-cyber
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I talk about GitHub and I use Github Paages to show that you can do it too.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+github_username:  my-github-handle: osa0508-cyber
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
